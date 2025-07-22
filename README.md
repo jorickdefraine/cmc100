@@ -13,7 +13,7 @@ Fetch the CMC100 Index composition from the CoinMarketCap api.
 git clone https://github.com/jorickdefraine/cmc100.git
 ```
 
-#### 2/ Create a local virutal env and activate it.
+#### 2/ Create a local virtual env and activate it.
 ```bash
 python3 -m venv venv
 source venv/bin/activate
@@ -24,11 +24,18 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-#### 4/ Run the script.
+#### 4/ Configure your environment variable
+```bash
+cp .env.local .env
+nano .env # Paste your CMC_PRO_API_KEY. Then ctrl+q -> y -> Enter to save the file.
+source .env
+```
+
+#### 5/ Run the script.
 ```bash
 python3 src/main.py
 ```
 
 ## Results
 Results are stored in the `output` folder. The full data are available in the `cmc100_constituents.csv` file.
-A pie chart with the Top 5 consitutents is generated to as `cmc100_pie_chart.png`. You can edit the number of top in the `main.py` script.
+A pie chart with the Top 5 constituents is also generated as `cmc100_pie_chart.png`. You can edit the number of top in the `main.py` script.

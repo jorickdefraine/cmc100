@@ -53,7 +53,7 @@ def process_and_visualize(data):
     df = pd.DataFrame(constituents)
     df = df.sort_values('weight', ascending=False).reset_index(drop=True)
 
-    top_n = 5 
+    top_n = 5  # EDIT the number of top constitutents to display in the pie chart.
     top = df.head(top_n)
     others_weight = df['weight'][top_n:].sum()
     others_count = len(df) - top_n
