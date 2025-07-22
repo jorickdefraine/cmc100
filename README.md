@@ -28,6 +28,13 @@ pip install -r requirements.txt
 ```bash
 cp .env.example .env
 nano .env # Paste your CMC_PRO_API_KEY. Then ctrl+q -> y -> Enter to save the file.
+```
+Edit the environnment variable : 
+- Add your CMC_PRO_API_KEY
+- Update the TIME_START and TIME_END (keep the format as shown in .env.example).
+
+##### Apply your environment variable.
+```bash
 source .env
 ```
 
