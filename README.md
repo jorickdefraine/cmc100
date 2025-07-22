@@ -24,16 +24,16 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-#### 4/ Configure your environment variable
+#### 4/ Configure your environment variables
 ```bash
 cp .env.example .env
 nano .env # Paste your CMC_PRO_API_KEY. Then ctrl+q -> y -> Enter to save the file.
 ```
-Edit the environnment variable : 
+Edit the environnment variables : 
 - Add your CMC_PRO_API_KEY
 - Update the TIME_START and TIME_END (keep the format as shown in .env.example).
 
-##### Apply your environment variable.
+##### Apply your environment variables.
 ```bash
 source .env
 ```
