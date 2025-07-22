@@ -13,7 +13,7 @@ Fetch the CMC100 Index composition from the CoinMarketCap api.
 git clone https://github.com/jorickdefraine/cmc100.git
 ```
 
-#### 2/Create a local virutal env and activate it.
+#### 2/ Create a local virutal env and activate it.
 ```bash
 python3 -m venv venv
 source venv/bin/activate
