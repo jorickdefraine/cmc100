@@ -1,0 +1,101 @@
+weight,id,name,symbol,url
+70.56,1,Bitcoin,BTC,https://coinmarketcap.com/currencies/bitcoin
+9.89,1027,Ethereum,ETH,https://coinmarketcap.com/currencies/ethereum
+4.26,52,XRP,XRP,https://coinmarketcap.com/currencies/xrp
+3.02,1839,BNB,BNB,https://coinmarketcap.com/currencies/bnb
+2.68,5426,Solana,SOL,https://coinmarketcap.com/currencies/solana
+0.86,1958,TRON,TRX,https://coinmarketcap.com/currencies/tron
+0.83,74,Dogecoin,DOGE,https://coinmarketcap.com/currencies/dogecoin
+0.67,2010,Cardano,ADA,https://coinmarketcap.com/currencies/cardano
+0.43,32196,Hyperliquid,HYPE,https://coinmarketcap.com/currencies/hyperliquid
+0.33,1831,Bitcoin Cash,BCH,https://coinmarketcap.com/currencies/bitcoin-cash
+0.32,20947,Sui,SUI,https://coinmarketcap.com/currencies/sui
+0.3,1975,Chainlink,LINK,https://coinmarketcap.com/currencies/chainlink
+0.28,3957,UNUS SED LEO,LEO,https://coinmarketcap.com/currencies/unus-sed-leo
+0.26,5805,Avalanche,AVAX,https://coinmarketcap.com/currencies/avalanche
+0.25,512,Stellar,XLM,https://coinmarketcap.com/currencies/stellar
+0.24,11419,Toncoin,TON,https://coinmarketcap.com/currencies/toncoin
+0.23,5994,Shiba Inu,SHIB,https://coinmarketcap.com/currencies/shiba-inu
+0.22,2,Litecoin,LTC,https://coinmarketcap.com/currencies/litecoin
+0.21,4642,Hedera,HBAR,https://coinmarketcap.com/currencies/hedera
+0.19,328,Monero,XMR,https://coinmarketcap.com/currencies/monero
+0.18,11092,Bitget Token,BGB,https://coinmarketcap.com/currencies/bitget-token-new
+0.18,6636,Polkadot,DOT,https://coinmarketcap.com/currencies/polkadot-new
+0.15,7083,Uniswap,UNI,https://coinmarketcap.com/currencies/uniswap
+0.14,7278,Aave,AAVE,https://coinmarketcap.com/currencies/aave
+0.14,24478,Pepe,PEPE,https://coinmarketcap.com/currencies/pepe
+0.13,35697,Pi,PI,https://coinmarketcap.com/currencies/pi
+0.1,21794,Aptos,APT,https://coinmarketcap.com/currencies/aptos
+0.1,3897,OKB,OKB,https://coinmarketcap.com/currencies/okb
+0.1,22974,Bittensor,TAO,https://coinmarketcap.com/currencies/bittensor
+0.09,6535,NEAR Protocol,NEAR,https://coinmarketcap.com/currencies/near-protocol
+0.09,8916,Internet Computer,ICP,https://coinmarketcap.com/currencies/internet-computer
+0.08,1321,Ethereum Classic,ETC,https://coinmarketcap.com/currencies/ethereum-classic
+0.08,3635,Cronos,CRO,https://coinmarketcap.com/currencies/cronos
+0.08,21159,Ondo,ONDO,https://coinmarketcap.com/currencies/ondo-finance
+0.07,20396,Kaspa,KAS,https://coinmarketcap.com/currencies/kaspa
+0.07,27075,Mantle,MNT,https://coinmarketcap.com/currencies/mantle
+0.06,3077,VeChain,VET,https://coinmarketcap.com/currencies/vechain
+0.06,35336,OFFICIAL TRUMP,TRUMP,https://coinmarketcap.com/currencies/official-trump
+0.06,33038,Sky,SKY,https://coinmarketcap.com/currencies/sky
+0.06,5690,Render,RENDER,https://coinmarketcap.com/currencies/render
+0.06,11841,Arbitrum,ARB,https://coinmarketcap.com/currencies/arbitrum
+0.06,28321,POL (prev. MATIC),POL,https://coinmarketcap.com/currencies/polygon-ecosystem-token
+0.06,4269,GateToken,GT,https://coinmarketcap.com/currencies/gatetoken
+0.06,3773,Artificial Superintelligence Alliance,FET,https://coinmarketcap.com/currencies/artificial-superintelligence-alliance
+0.06,30171,Ethena,ENA,https://coinmarketcap.com/currencies/ethena
+0.05,2087,KuCoin Token,KCS,https://coinmarketcap.com/currencies/kucoin-token
+0.05,23149,Sei,SEI,https://coinmarketcap.com/currencies/sei
+0.05,4030,Algorand,ALGO,https://coinmarketcap.com/currencies/algorand
+0.05,13502,Worldcoin,WLD,https://coinmarketcap.com/currencies/worldcoin-org
+0.05,3794,Cosmos,ATOM,https://coinmarketcap.com/currencies/cosmos
+0.05,2280,Filecoin,FIL,https://coinmarketcap.com/currencies/filecoin
+0.04,7950,Flare,FLR,https://coinmarketcap.com/currencies/flare
+0.04,29210,Jupiter,JUP,https://coinmarketcap.com/currencies/jupiter-ag
+0.04,23095,Bonk,BONK,https://coinmarketcap.com/currencies/bonk1
+0.04,7226,Injective,INJ,https://coinmarketcap.com/currencies/injective
+0.04,33597,Fartcoin,FARTCOIN,https://coinmarketcap.com/currencies/fartcoin
+0.04,23635,Four,FORM,https://coinmarketcap.com/currencies/binaryx-new
+0.04,3155,Quant,QNT,https://coinmarketcap.com/currencies/quant
+0.04,28081,SPX6900,SPX,https://coinmarketcap.com/currencies/spx6900
+0.03,35626,Story,IP,https://coinmarketcap.com/currencies/story-protocol
+0.03,5176,Tether Gold,XAUt,https://coinmarketcap.com/currencies/tether-gold
+0.03,6719,The Graph,GRT,https://coinmarketcap.com/currencies/the-graph
+0.03,11840,Optimism,OP,https://coinmarketcap.com/currencies/optimism-ethereum
+0.03,2634,XDC Network,XDC,https://coinmarketcap.com/currencies/xdc-network
+0.03,22861,Celestia,TIA,https://coinmarketcap.com/currencies/celestia
+0.03,28752,dogwifhat,WIF,https://coinmarketcap.com/currencies/dogwifhat
+0.03,4705,PAX Gold,PAXG,https://coinmarketcap.com/currencies/pax-gold
+0.03,10603,Immutable,IMX,https://coinmarketcap.com/currencies/immutable-x
+0.03,36462,Vaulta,A,https://coinmarketcap.com/currencies/vaulta
+0.03,32880,Kaia,KAIA,https://coinmarketcap.com/currencies/kaia
+0.03,28541,Jito,JTO,https://coinmarketcap.com/currencies/jito
+0.03,2694,Nexo,NEXO,https://coinmarketcap.com/currencies/nexo
+0.03,34466,Pudgy Penguins,PENGU,https://coinmarketcap.com/currencies/pudgy-penguins
+0.03,32684,Sonic,S,https://coinmarketcap.com/currencies/sonic
+0.03,29420,Virtuals Protocol,VIRTUAL,https://coinmarketcap.com/currencies/virtual-protocol
+0.03,4847,Stacks,STX,https://coinmarketcap.com/currencies/stacks
+0.02,9481,Pendle,PENDLE,https://coinmarketcap.com/currencies/pendle
+0.02,28177,Pyth Network,PYTH,https://coinmarketcap.com/currencies/pyth-network
+0.02,3602,Bitcoin SV,BSV,https://coinmarketcap.com/currencies/bitcoin-sv
+0.02,7186,PancakeSwap,CAKE,https://coinmarketcap.com/currencies/pancakeswap
+0.02,36119,Walrus,WAL,https://coinmarketcap.com/currencies/walrus-xyz
+0.02,13855,Ethereum Name Service,ENS,https://coinmarketcap.com/currencies/ethereum-name-service
+0.02,10804,FLOKI,FLOKI,https://coinmarketcap.com/currencies/floki-inu
+0.02,4157,THORChain,RUNE,https://coinmarketcap.com/currencies/thorchain
+0.02,8000,Lido DAO,LDO,https://coinmarketcap.com/currencies/lido-dao
+0.02,6210,The Sandbox,SAND,https://coinmarketcap.com/currencies/the-sandbox
+0.02,8526,Raydium,RAY,https://coinmarketcap.com/currencies/raydium
+0.02,2416,Theta Network,THETA,https://coinmarketcap.com/currencies/theta-network
+0.02,6538,Curve DAO Token,CRV,https://coinmarketcap.com/currencies/curve-dao-token
+0.02,1437,Zcash,ZEC,https://coinmarketcap.com/currencies/zcash
+0.02,7326,DeXe,DEXE,https://coinmarketcap.com/currencies/dexe
+0.02,7080,Gala,GALA,https://coinmarketcap.com/currencies/gala
+0.02,1720,IOTA,IOTA,https://coinmarketcap.com/currencies/iota
+0.02,4558,Flow,FLOW,https://coinmarketcap.com/currencies/flow
+0.02,16086,BitTorrent [New],BTT,https://coinmarketcap.com/currencies/bittorrent-new
+0.02,23254,Core,CORE,https://coinmarketcap.com/currencies/core-dao
+0.02,2011,Tezos,XTZ,https://coinmarketcap.com/currencies/tezos
+0.02,8425,JasmyCoin,JASMY,https://coinmarketcap.com/currencies/jasmy
+0.01,5665,Helium,HNT,https://coinmarketcap.com/currencies/helium
+0.0,29779,Polyhedra Network,ZKJ,https://coinmarketcap.com/currencies/polyhedra-network

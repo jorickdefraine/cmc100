@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 #### 4/ Configure your environment variable
 ```bash
-cp .env.local .env
+cp .env.example .env
 nano .env # Paste your CMC_PRO_API_KEY. Then ctrl+q -> y -> Enter to save the file.
 source .env
 ```
@@ -37,5 +37,12 @@ python3 src/main.py
 ```
 
 ## Results
-Results are stored in the `output` folder. The full data are available in the `cmc100_constituents.csv` file.
-A pie chart with the Top 5 constituents is also generated as `cmc100_pie_chart.png`. You can edit the number of top in the `main.py` script.
+Results are stored in the `output` folder. 
+
+Raw data can be find as `cmc_data.json`.
+
+A more user friendly version is available as the `cmc100_constituents.csv`. 
+
+A pie chart with the Top 5 constituents is also generated as `cmc100_pie_chart.png`. 
+
+You can edit the number of top in the `main.py` script.
